@@ -41,7 +41,7 @@ Describe any challenges encountered while building the app.
 I'd say that the biggest challenge for me overall was installing & setting up the app due to storage issues. In terms of building the app,
 I wouldn't say that I faced too many challenges (thanks to the tutorials); it definitely took some time getting used to Android Studio
 as it was my first time using the software, but implementing my own design helped me to get more comfortable with it.
-I really enjoyed the pre-work overall, and hope to build more apps and learn more about Android Development in the course!
+I really enjoyed the pre-work overall, and hope to build more apps and learn more about Android Development throughout the course!
 
 ## License
 
